@@ -60,6 +60,8 @@
 |자유게시판 목록|상세페이지|
 |------|---|
 |<img width="1728" alt="자유게시판 목록" src="https://user-images.githubusercontent.com/113197284/226084333-5507f4d6-6254-49af-a6a5-b8bfb210ced3.png">|<img width="1728" alt="자유게시판 상세페이지" src="https://user-images.githubusercontent.com/113197284/226087192-cb76bffb-6071-4aab-8016-f3fd65efeb1f.png">|
+|키워드 검색, 기준에 따른 ||
+
 
 
 
